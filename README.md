@@ -1,1 +1,0 @@
-Here you can find a few of my solutions for *Advent of Code* events.
